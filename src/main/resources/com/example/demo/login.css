@@ -1,0 +1,7 @@
+.root {
+    -fx-background-image: url("bg.jpg");
+}
+
+#btnLogout {
+    -fx-background-color: #ffff00;
+}
